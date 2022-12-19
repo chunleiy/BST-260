@@ -4,6 +4,6 @@ navbar:
   title: "My Website"
   left:
     - text: "Report"
-      href: index.html
+      href: test.html
     - text: "Code Part"
-      href: code_part1.html
+      href: test1.html
